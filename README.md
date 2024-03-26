@@ -1,1 +1,1 @@
-# Fashion-MNIST-Classification
+# Deep Learning Projects
